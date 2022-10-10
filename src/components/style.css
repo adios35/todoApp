@@ -1,0 +1,7 @@
+.cta > *:active {
+  transition: 0.9s all;
+  scale: 1.5;
+}
+.cta > *:hover {
+  opacity: 0.6;
+}
